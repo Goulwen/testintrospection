@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parc>
+	<voiture marque="Renault" motorisation="electrique" />
+	<voiture marque="Peugeot" motorisation="diesel" />
+	<moto marque="Yamaha" type="routiere" />
+</parc>
